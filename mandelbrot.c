@@ -1,4 +1,5 @@
 #include <math.h>
+/* work in progress ... */
 
 int main ( void ) {
 	int x,y,N=30; 
