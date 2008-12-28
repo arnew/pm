@@ -1,6 +1,5 @@
-               #inclu\
-               de <st\
-               dio.h>
+              #include\
+	      <stdio.h>
               int main(
             void){int x,y
            ,N=30;for(x=0;x
