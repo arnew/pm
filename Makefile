@@ -6,4 +6,4 @@ CFLAGS+=-g
 LDFLAGS+=-lncurses 
 #LDFLAGS+=-lm
 
-all: bino
+all: tree1
