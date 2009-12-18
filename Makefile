@@ -7,3 +7,6 @@ LDFLAGS+=-lncurses
 #LDFLAGS+=-lm
 
 all: bino
+
+unfloat: floater
+	ln -s floater unfloat
