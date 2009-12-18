@@ -6,4 +6,7 @@ CFLAGS+=-g
 LDFLAGS+=-lncurses 
 #LDFLAGS+=-lm
 
-all: tree1
+all: 
+
+unfloat: floater
+	ln -s floater unfloat
